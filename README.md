@@ -26,5 +26,5 @@ A simple and interactive web-based application that measures your typing speed a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/TypingSpeedTest-JS.git
+   git clone git@github.com:yashc003/Typing-Speed-Test.git
    cd TypingSpeedTest-JS
